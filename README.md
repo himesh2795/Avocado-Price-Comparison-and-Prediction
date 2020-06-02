@@ -12,3 +12,5 @@ Dataset Characteristics : Time Series
 - Find the seasonality effect on the prices
 - Predict the next year price for both the types of avocado(Conventional and Organic)
 - Predict the next year price for LasVegas region for both the types of avocado.
+
+## Dateset -> avocado.csv
